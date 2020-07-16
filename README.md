@@ -4,8 +4,7 @@ Project repository for JavaND Project 2, implementing a Vehicles API using Java 
 
 ## Instructions
 
-Check each component to see its details and instructions. Note that all three applications
-should be running at once for full operation. Further instructions are available in the classroom.
+Check each component to see its details.
 
 - [Vehicles API](vehicles-api/README.md)
 - [Pricing Service](pricing-service/)
