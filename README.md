@@ -11,5 +11,3 @@ should be running at once for full operation. Further instructions are available
 - [Pricing Service](pricing-service/README.md)
 - [Boogle Maps](boogle-maps/README.md)
 
-## Dependencies
-.
