@@ -10,4 +10,5 @@ should be running at once for full operation. Further instructions are available
 - [Vehicles API](vehicles-api/README.md)
 - [Pricing Service](pricing-service/)
 - [Boogle Maps](boogle-maps/)
+- [Eureka Service](eureka-server/)
 
